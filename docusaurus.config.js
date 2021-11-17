@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'OXI DAO',
-  tagline: 'OXI DAO la lleva',
+  tagline: 'Organizacion Autónoma Decentralizada del project OXI',
   url: 'https://oxidao.cl',
   baseUrl: '/',
   onBrokenLinks: 'throw',
