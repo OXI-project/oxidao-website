@@ -4,14 +4,8 @@ endi:
   url: https://github.com/endiliey
   image_url: https://github.com/endiliey.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+andres:
+  name: Andrés Junge
+  title: Ingeniero Social (y computín)
+  url: https://github.com/ajunge
+  image_url: https://github.com/ajunge.png

@@ -16,32 +16,34 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Dinero "Oxidable"',
     image: '/img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Queremos experimentar con dinero que se "oxida", es decir va perdiendo su valor a medida
+        que pasa el tiempo. Queremos probar si esto desincentiva el estancamiento y hace fluir 
+        el dinero mas rapidamente.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Organizacion Autónoma Descentralizada (DAO)',
     image: '/img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Las decisiones de este proyecto se toman en comunidad. Queremos experimentar con 
+        una organización que decide por medio de votación cuadratica las decisiones de financiamiento
+        y parametros del sistema.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Desarrollo Comunitario',
     image: '/img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        La comunidad es mas importante que la tecnología. Entendemos que este experimento 
+        es un experimento social y que la comunidad que lo implementa tiene todo el control sobre el.
       </>
     ),
   },
